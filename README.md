@@ -3,7 +3,7 @@
 - I am a Honduran computer engineer based in **Brazil**.
 - Passionate for **Data Science** and **Machine Learning**.
 - Currently working on a fall detection device using SVM.
-- Currently learning more about **back-end, Data Science and ML**.
+- Currently learning more about **Data Science, Data Engineering, and ML**.
 - Looking for help for improving my GitHub activity.
 
 ### I have experience with:
